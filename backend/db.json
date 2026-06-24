@@ -1,0 +1,274 @@
+{
+  "resumes": [],
+  "applications": [
+    {
+      "id": "app-seed-1",
+      "jobId": "job-2",
+      "jobTitle": "Frontend Developer (React)",
+      "company": "CRED",
+      "location": "Bengaluru, Karnataka (Onsite)",
+      "salary": "₹18,00,000 - ₹28,00,000 LPA",
+      "status": "Applied",
+      "dateCreated": "2026-06-15",
+      "dateApplied": "2026-06-15",
+      "deadline": "2026-07-05",
+      "coverLetter": "Dear Hiring Team at CRED,\n\nI am thrilled to apply for the Frontend Developer position...",
+      "outreachEmail": "Hi CRED team,\n\nI just applied for the Frontend Developer role! Let's connect.",
+      "recipientEmail": "talent@cred.club",
+      "recipientName": "CRED Recruiting Lead",
+      "followUpDays": 5,
+      "followUpReminderDate": "2026-06-20",
+      "followUpCompleted": false,
+      "historyLogs": [
+        {
+          "id": "log-seed-1-1",
+          "timestamp": "10:30:00 AM",
+          "agentName": "Resume Analysis Agent",
+          "message": "Parsed resume alignment details."
+        },
+        {
+          "id": "log-seed-1-2",
+          "timestamp": "10:31:00 AM",
+          "agentName": "Application Drafter Agent",
+          "message": "Successfully drafted outreach and cover letters."
+        }
+      ]
+    },
+    {
+      "id": "app-seed-2",
+      "jobId": "job-1",
+      "jobTitle": "Senior Full Stack Engineer",
+      "company": "Razorpay",
+      "location": "Bengaluru, Karnataka (Hybrid)",
+      "salary": "₹24,00,000 - ₹35,00,000 LPA",
+      "status": "Saved",
+      "dateCreated": "2026-06-21",
+      "deadline": "2026-07-10",
+      "coverLetter": "Dear hiring team at Razorpay, representing my full stack alignment for your Senior Full Stack Engineer opening...",
+      "outreachEmail": "Hi Razorpay team, looking forward to contributing to your payment products.",
+      "recipientEmail": "hiring@razorpay.com",
+      "recipientName": "Razorpay HR Admin",
+      "historyLogs": []
+    },
+    {
+      "id": "app-seed-3",
+      "jobId": "job-4",
+      "jobTitle": "Software Engineer (Platforms)",
+      "company": "Zoho Corporation",
+      "location": "Chennai, Tamil Nadu (Onsite)",
+      "salary": "₹12,00,000 - ₹18,00,000 LPA",
+      "status": "Interview",
+      "dateCreated": "2026-06-10",
+      "dateApplied": "2026-06-12",
+      "deadline": "2026-06-30",
+      "coverLetter": "Dear Zoho hiring recruiters, presenting my skills in platforms and frameworks alignment...",
+      "outreachEmail": "Hi Zoho team, excited for my scheduled platforms engineer technical interview session.",
+      "recipientEmail": "recruitment@zoho.com",
+      "recipientName": "Zoho Careers Platform",
+      "historyLogs": [
+        {
+          "id": "log-seed-3-1",
+          "timestamp": "02:15:00 PM",
+          "agentName": "System",
+          "message": "Status changed to Interview."
+        }
+      ]
+    }
+  ],
+  "SEED_JOBS": [
+    {
+      "id": "job-1",
+      "title": "Senior Full Stack Engineer",
+      "company": "Razorpay",
+      "salary": "₹24,00,000 - ₹35,00,000 LPA",
+      "location": "Bengaluru, Karnataka (Hybrid)",
+      "description": "Build premium merchant dashboard experiences and robust APIs for high-volume transactions. Require 5+ years of experience with React, Node.js, and TypeScript. Experience with payment plumbing and SQL databases is a plus.",
+      "matchScore": 94,
+      "type": "hybrid",
+      "experienceLevel": "Senior",
+      "companySize": "1,000 - 5,000 employees",
+      "industry": "Fintech",
+      "logo": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?auto=format&fit=crop&w=120&h=120&q=80",
+      "jobUrl": "https://razorpay.com/jobs",
+      "openDate": "2026-06-10",
+      "closingDate": "2026-07-15",
+      "applyLink": "https://razorpay.com/jobs/senior-fullstack",
+      "contactInfo": "talent@razorpay.com",
+      "matchAnalysis": {
+        "strengths": [
+          "Excellent alignment with React & TypeScript",
+          "Strong payment gateway orchestration skills",
+          "Enterprise dashboard design expertise in India"
+        ],
+        "gapAnalysis": [
+          "Tailwind CSS v4 specific hooks are new to candidate",
+          "No experience with Razorpay's custom API patterns"
+        ],
+        "recommendations": [
+          "Highlight past merchant-facing projects in Bengaluru based firms",
+          "Emphasize transaction scaling & low-latency API experience"
+        ]
+      }
+    },
+    {
+      "id": "job-2",
+      "title": "Frontend Developer (React)",
+      "company": "CRED",
+      "salary": "₹18,00,000 - ₹28,00,000 LPA",
+      "location": "Bengaluru, Karnataka (Onsite)",
+      "description": "Work on credit-line products, user interfaces, and fintech widgets. Looking for a React enthusiast with pristine design aesthetic, knowledge of Tailwind CSS, micro-interactions, and high performance canvas frameworks.",
+      "matchScore": 89,
+      "type": "onsite",
+      "experienceLevel": "Mid-Senior",
+      "companySize": "500 - 1000 employees",
+      "industry": "Fintech & Consumer",
+      "logo": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=120&h=120&q=80",
+      "jobUrl": "https://cred.club/careers",
+      "openDate": "2026-06-12",
+      "closingDate": "2026-07-20",
+      "applyLink": "https://cred.club/careers/frontend-dev",
+      "contactInfo": "careers@cred.club",
+      "matchAnalysis": {
+        "strengths": [
+          "Deep React knowledge",
+          "Framer Motion layout and visual experience alignment",
+          "Tailwind CSS styling speed"
+        ],
+        "gapAnalysis": [
+          "Lottie-animation based design optimization is missing key focus in current profile"
+        ],
+        "recommendations": [
+          "Focus resume bullets on lightweight UI interactions",
+          "Add a link to portfolio with interactive credit cards simulation"
+        ]
+      }
+    },
+    {
+      "id": "job-3",
+      "title": "AI Integrations Engineer",
+      "company": "Tata Consultancy Services (TCS)",
+      "salary": "₹15,00,000 - ₹22,00,000 LPA",
+      "location": "Hyderabad, Telangana (Hybrid)",
+      "description": "Develop enterprise AI conversational agents and orchestration pipelines. Spearhead multi-agent workflows, prompt design modules, and vector search. Requires React, Python, FastAPI and LLM integration engineering.",
+      "matchScore": 78,
+      "type": "hybrid",
+      "experienceLevel": "Senior",
+      "companySize": "10,005+ employees",
+      "industry": "IT Services",
+      "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=120&h=120&q=80",
+      "jobUrl": "https://tcs.com/careers",
+      "openDate": "2026-06-14",
+      "closingDate": "2026-07-25",
+      "applyLink": "https://tcs.com/careers/ai-integrations",
+      "contactInfo": "recruitment@tcs.com",
+      "matchAnalysis": {
+        "strengths": [
+          "Strong experience calling modern APIs (e.g., @google/genai)",
+          "Full stack TypeScript framework foundations"
+        ],
+        "gapAnalysis": [
+          "Relational PostgreSQL databases schemas scaling not detailed",
+          "CrewAI or LangChain orchestration is basic standard on current profile"
+        ],
+        "recommendations": [
+          "Stress prompt testing paradigms in your portfolio",
+          "Present autonomous agent loops you have built"
+        ]
+      }
+    },
+    {
+      "id": "job-4",
+      "title": "Software Engineer (Platforms)",
+      "company": "Zoho Corporation",
+      "salary": "₹12,00,000 - ₹18,00,000 LPA",
+      "location": "Chennai, Tamil Nadu (Onsite)",
+      "description": "Build ultra-responsive web modules and core collaboration systems. Requires standard expertise with React, Node.js, WebSockets, real-time message sync, and elegant pixel-perfect design practices.",
+      "matchScore": 85,
+      "type": "onsite",
+      "experienceLevel": "Mid-Senior",
+      "companySize": "10,000+ employees",
+      "industry": "SaaS",
+      "logo": "https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?auto=format&fit=crop&w=120&h=120&q=80",
+      "jobUrl": "https://zoho.com/careers",
+      "openDate": "2026-06-08",
+      "closingDate": "2026-07-10",
+      "applyLink": "https://zoho.com/careers/software-engineer",
+      "contactInfo": "hiring@zoho.com",
+      "matchAnalysis": {
+        "strengths": [
+          "Highly modular coding standards align nicely",
+          "Passionate about low-latency data sync and user interaction patterns"
+        ],
+        "gapAnalysis": [
+          "Java or C++ backend optimizations are not in resume"
+        ],
+        "recommendations": [
+          "Focus resume summary on offline-first persistence architectures",
+          "Emphasize responsive desktop-first aesthetic precision"
+        ]
+      }
+    },
+    {
+      "id": "job-5",
+      "title": "Full Stack Engineer",
+      "company": "Jio Platforms",
+      "salary": "₹20,00,000 - ₹30,00,000 LPA",
+      "location": "Mumbai, Maharashtra (Hybrid)",
+      "description": "Develop scalable micro-frontends and robust Node.js GraphQL schemas. Collaborate closely with product and platform infrastructure teams to build highly responsive, highly loaded consumer-facing layouts.",
+      "matchScore": 92,
+      "type": "hybrid",
+      "experienceLevel": "Senior",
+      "companySize": "10,000+ employees",
+      "industry": "Telecom & Internet",
+      "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=120&h=120&q=80",
+      "jobUrl": "https://jio.com/careers",
+      "openDate": "2026-06-16",
+      "closingDate": "2026-07-28",
+      "applyLink": "https://jio.com/careers/fullstack-eng",
+      "contactInfo": "talent.acquisition@jio.com",
+      "matchAnalysis": {
+        "strengths": [
+          "Strong backend and microservices orchestration",
+          "Good styling proficiency with Tailwind utility grids"
+        ],
+        "gapAnalysis": [
+          "No specific telecom integration architecture background"
+        ],
+        "recommendations": [
+          "Highlight scalable high-traffic web apps",
+          "Showcase performance bottlenecks solved in previous structures"
+        ]
+      }
+    },
+    {
+      "id": "job-6",
+      "title": "Application Developer",
+      "company": "Druva Software",
+      "salary": "₹10,00,000 - ₹15,00,000 LPA",
+      "location": "Pune, Maharashtra (Onsite)",
+      "description": "Low-preference listing for entry-to-mid software practitioners. Maintain cloud server endpoints, React web-apps, static pages, and simple full-stack pipelines.",
+      "matchScore": 72,
+      "type": "onsite",
+      "experienceLevel": "Mid-Senior",
+      "companySize": "1,050 - 5,000 employees",
+      "industry": "Cybersecurity & Cloud",
+      "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=120&h=120&q=80",
+      "jobUrl": "https://druva.com/careers",
+      "openDate": "2026-06-18",
+      "closingDate": "2026-07-30",
+      "applyLink": "https://druva.com/careers/app-developer",
+      "contactInfo": "hr@druva.com",
+      "matchAnalysis": {
+        "strengths": [
+          "Proficiency with basic web stack (React/Typescript)"
+        ],
+        "gapAnalysis": [
+          "Lower match score due to specific cloud architecture gaps"
+        ],
+        "recommendations": [
+          "Focus on cloud system engineering foundations"
+        ]
+      }
+    }
+  ]
+}

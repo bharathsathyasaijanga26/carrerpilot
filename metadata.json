@@ -1,0 +1,6 @@
+{
+  "name": "CareerPilot AI",
+  "description": "A premium AI-powered job application automation platform that uses autonomous agents to parse resumes, find perfect roles, research targets, and personalize outreach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
